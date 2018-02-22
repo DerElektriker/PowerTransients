@@ -1,2 +1,2 @@
 # PowerTransients
-Electromagnetics Transient simulator for Power Systems
+Electromagnetics Transients simulator for Power Systems
